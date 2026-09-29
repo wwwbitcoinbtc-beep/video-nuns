@@ -1,0 +1,8 @@
+{
+  "name": "Video-NUNS",
+  "description": "Secure streaming platform with Android UI, anti-download DRM protection, and USD wallet for video purchases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
